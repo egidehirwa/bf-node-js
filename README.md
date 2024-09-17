@@ -17,9 +17,9 @@ Various programming languages are available for backend development, such as Jav
 
 1. Introduction to Node.js
 
-   - [ ] What is Node.js?
-   - [ ] Node.js vs. Browser JavaScript
-   - [ ] Server-side JavaScript
+   - [x] What is Node.js?
+   - [x] Node.js vs. Browser JavaScript
+   - [x] Server-side JavaScript
    - [ ] Non-blocking I/O
    - [ ] Event-driven architecture
 
